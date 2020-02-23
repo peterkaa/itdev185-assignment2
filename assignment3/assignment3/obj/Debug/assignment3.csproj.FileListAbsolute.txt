@@ -1,0 +1,6 @@
+C:\Users\Adam\Desktop\Code\C#\ITDEV185\itdev185-assignment3\assignment3\assignment3\bin\Debug\assignment3.exe.config
+C:\Users\Adam\Desktop\Code\C#\ITDEV185\itdev185-assignment3\assignment3\assignment3\bin\Debug\assignment3.exe
+C:\Users\Adam\Desktop\Code\C#\ITDEV185\itdev185-assignment3\assignment3\assignment3\bin\Debug\assignment3.pdb
+C:\Users\Adam\Desktop\Code\C#\ITDEV185\itdev185-assignment3\assignment3\assignment3\obj\Debug\assignment3.csprojAssemblyReference.cache
+C:\Users\Adam\Desktop\Code\C#\ITDEV185\itdev185-assignment3\assignment3\assignment3\obj\Debug\assignment3.exe
+C:\Users\Adam\Desktop\Code\C#\ITDEV185\itdev185-assignment3\assignment3\assignment3\obj\Debug\assignment3.pdb
